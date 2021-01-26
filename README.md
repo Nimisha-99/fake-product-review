@@ -4,6 +4,7 @@ The scope and need of online markets and e-commerce platforms are on the rise an
 # Methods used to determine Fake Reviews
 
    1 Reviews which have dual view
+   
    2 Reviews in which same user promoting or demoting a particular brand
    3 Reviews in which person from same IP Address promoting or demoting a particular brand
    4 Reviews which are posted as flood by same user all the reviews are either positive or negative.
